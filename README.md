@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # App preview
 ![WCountries](/assets/img/wcountries.png)
+=======
+# App interface
+
+
+>>>>>>> 9d29f5f1c48a9afc6664715e807f7334c0c0ea3e
 
 # Getting Started with Create React App
 
