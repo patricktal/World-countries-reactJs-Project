@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # App preview
 ![WCountries](src/assets/img/wcountries.png)
 
