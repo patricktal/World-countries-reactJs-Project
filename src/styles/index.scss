@@ -1,0 +1,11 @@
+@import "./settings";
+@import "./components/navigation";
+@import "./components/logo";
+@import "./components/countries";
+@import "./components/card";
+@import "./components/footer";
+
+body {
+    margin-left: 50px;
+    margin-top: 50px;
+}
