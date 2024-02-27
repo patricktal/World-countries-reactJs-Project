@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # App preview
-![WCountries](./assets/img/wcountries.png)
+![WCountries](src/assets/img/wcountries.png)
 
 # Getting Started with Create React App
 
